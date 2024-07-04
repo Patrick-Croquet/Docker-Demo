@@ -10,5 +10,7 @@
         <h1><a href="info.php">Info PHP</a></h1>
         <h1><a href="mysqli_access.php">Connexion MYSQLI</a></h1>
         <h1><a href="pdo_access.php">Connexion PDO</a></h1>
+
+        <h1><a href="https://afpa.fr">Vers afpa.fr</a></h1>
 </body>
 </html>
